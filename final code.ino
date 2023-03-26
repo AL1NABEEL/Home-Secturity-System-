@@ -24,16 +24,16 @@
 #include <ArduinoJson.h>
 
 // Replace with your network credentials
-const char* ssid = "NABEEL";
-const char* password = "12345678";
+const char* ssid = "xxxxxxx";
+const char* password = "xxxxxxxx";
 
 // Use @myidbot or @userinfobot to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can message you
 
-String chatId = "664166112";
+String chatId = "xxxxxxxx";
 
 // Initialize Telegram BOT
-String BOTtoken = "6220876714:AAEufczh8lq1bhCCLu8RtlzN-V-uwPVa_Jw";
+String BOTtoken = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 bool sendPhoto = false;
 
